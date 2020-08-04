@@ -16,7 +16,7 @@ Mi pasión por la programación y el diseño a la vez me llevan a encajar super 
 Un trabajo de desarrollo Frontend en Madrid, en un proyecto en el que se cuide un poco la interfaz de usuario y se apliquen buenas prácticas. No me importa si es Angular, React, Vue, React-native, Flutter o Full-stack con NodeJS o Java, solo huyo un poco de .NET. 
 
 ### 🏈 ¿Qué puedo aportar? 
-Soy un Ingeniero bastante hábil, con buen ojo para el diseño, buen comunicador, inglés fluido y con la autonomía propia de un Senior. Tengo >1 año de experiencia con tecnologías web (take a look at my CV's Roadmap 🤫). Soy muy comprometido profesionalmente y lo doy todo para que el proyecto salga bien no solo en tiempo, si no también en forma. Trabajo genial en equipo, suelo generar un buen ambiente con los que me rodean con cierta iniciativa de liderazgo pero con humildad y sin imposición.
+Soy un Ingeniero bastante hábil, con buen ojo para el diseño, buen comunicador, inglés fluido y con la autonomía propia de un Senior. Tengo >1 año de experiencia con tecnologías web (take a look at my CV's Roadmap 🤫). Soy muy comprometido profesionalmente y lo doy todo para que el proyecto salga bien no solo en tiempo, si no también en forma. Trabajo genial en equipo, suelo generar un buen ambiente con los que me rodean. Tengo cierta iniciativa de liderazgo pero siempre con humildad y sin imposición.
 
 ### 🌟 Mi trabajo ideal 
 Por Madrid centro, con una banda salarial a partir de 25k, en un proyecto de desarrollo Frontend o Full-stack, sobre la pila JavaScript/TypeScript.
